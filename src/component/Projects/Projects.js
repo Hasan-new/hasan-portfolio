@@ -10,7 +10,7 @@ const Projects = () => {
 
     const allProjects=[
         {id:'01',img:""+creativeAgency, title:"Creative Agency", description:"A fullstack Creative Agency website.",
-         gitHub:"https://github.com/Hasan-new/hasan-creative-agency-main", liveLink:"🔗 https://hasan-creative-agency-main.web.app/"},
+         gitHub:"https://github.com/Hasan-new/hasan-creative-agency-main", liveLink:"https://hasan-creative-agency-main.web.app/"},
 
          {id:'02',img:""+travelGuru, title:"Travel Guru", description:"A fullstack Travel Guru website.",
          gitHub:"https://github.com/Hasan-new/travel-guru-hasan", liveLink:"https://travel-guru-master-853a9.web.app/"},
