@@ -7,7 +7,7 @@ import CV from '../../images/CV/Resume-Hasan.pdf';
 const Header = () => {
 
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark bg sticky-top">
+        <nav className="navbar navbar-expand-lg navbar-light bg-light sticky-top">
             <div className="container">
                 <a className="navbar-brand" href="/"><img src={logo} alt="Mohammad Hasan" /></a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
