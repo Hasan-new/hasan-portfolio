@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.css';
-import logo from '../../images/logo .png';
+import logo from '../../images/logo.png';
 import CV from '../../images/CV/Resume-Hasan.pdf';
 
 
